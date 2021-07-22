@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NuclearThief
+- 👋 Hi, I’m @NukeThief
 - 👀 I’m interested in Kade Engine
 - 🌱 I’m currently learning Haxe
 - 💞️ I’m looking to collaborate on Friday Night Funkin'
